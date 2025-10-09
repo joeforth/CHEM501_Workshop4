@@ -1,2 +1,2 @@
 # CHEM501_Workshop4
-Workshop 4 - Data Storage
+In this workshop, we'll learn how to store and structure data in a database using SQL and SQLite.
